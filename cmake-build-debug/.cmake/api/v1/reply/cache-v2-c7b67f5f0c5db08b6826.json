@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys/cmake-build-debug"
+			"value" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys"
+			"value" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys/cmake-build-debug"
+			"value" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system/cmake-build-debug"
 		},
 		{
 			"name" : "lib_sys_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys"
+			"value" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system"
 		}
 	],
 	"kind" : "cache",

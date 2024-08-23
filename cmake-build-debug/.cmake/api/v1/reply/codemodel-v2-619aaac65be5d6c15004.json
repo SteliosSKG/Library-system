@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys/cmake-build-debug",
-		"source" : "/Users/stelioskobogiannis/Documents/Coding/cpp/projects/lib-sys"
+		"build" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system/cmake-build-debug",
+		"source" : "/Users/stelioskobogiannis/Documents/GitHub/Library-system"
 	},
 	"version" : 
 	{
